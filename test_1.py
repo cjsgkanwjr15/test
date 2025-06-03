@@ -8,3 +8,12 @@ def hello():
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+#git pull
+#git push
+#git checkout
+#git commit
+#git add
+#git merge
+#git branch
+#.......
