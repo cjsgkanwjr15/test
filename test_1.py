@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello(): 
-    return 'Hello, World!'
+    return 'Hello, kubig!'
 
 if __name__ == '__main__':
     app.run(debug=True)
@@ -15,5 +15,10 @@ if __name__ == '__main__':
 #git commit
 #git add
 #git merge
+
 #git branch
+#git push --set-upstream origin practice
+#git branch -d 
+#git push origin --delete 
+#git log
 #.......
